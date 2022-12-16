@@ -1,0 +1,11 @@
+C:\Users\Djek\Desktop\TM-main\TaskManager\TaskManager\obj\x86\Debug\TaskManager.csproj.AssemblyReference.cache
+C:\Users\Djek\Desktop\TM-main\TaskManager\TaskManager\obj\x86\Debug\TaskManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Djek\Desktop\TM-main\TaskManager\TaskManager\bin\x86\Debug\TaskManager.exe.config
+C:\Users\Djek\Desktop\TM-main\TaskManager\TaskManager\bin\x86\Debug\TaskManager.exe
+C:\Users\Djek\Desktop\TM-main\TaskManager\TaskManager\bin\x86\Debug\TaskManager.pdb
+C:\Users\Djek\Desktop\TM-main\TaskManager\TaskManager\obj\x86\Debug\TaskManager.Form1.resources
+C:\Users\Djek\Desktop\TM-main\TaskManager\TaskManager\obj\x86\Debug\TaskManager.Properties.Resources.resources
+C:\Users\Djek\Desktop\TM-main\TaskManager\TaskManager\obj\x86\Debug\TaskManager.csproj.GenerateResource.cache
+C:\Users\Djek\Desktop\TM-main\TaskManager\TaskManager\obj\x86\Debug\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\Djek\Desktop\TM-main\TaskManager\TaskManager\obj\x86\Debug\TaskManager.exe
+C:\Users\Djek\Desktop\TM-main\TaskManager\TaskManager\obj\x86\Debug\TaskManager.pdb
